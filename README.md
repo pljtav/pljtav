@@ -11,7 +11,5 @@ pljtav/pljtav is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 <html>Web Pljt
-
 <head>
-
-    <text>Rh in bancruptcy,with reorganization,Pljt owner,Rh deptor
+<text>Rh in bancruptcy,with reorganization,Pljt owner,Rh deptor
