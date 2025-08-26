@@ -14,7 +14,5 @@ You can click the Preview link to take a look at your changes.
 <head>left margin(16) write"Pljt ordering"
 
 
-
-
 <text>Rh in bancruptcy,with reorganization,Pljt owner,Rh deptor
 $350.000.000.00 Dug Teretnicom prema Rh...
