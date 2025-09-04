@@ -1,8 +1,9 @@
+
 - 👋 Hi, I’m Pljt
 - 👀 I’m interested in ...everything
 - 🌱 I’m currently learning ...coding
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...Pljt7492@gmail.com
+- 📫 How to reach me ...Pljt7492@gmail.com,i.bilic3177@gmail.com,Bsp88319@gmail.com
 - 😄 Pronouns: ...Whatever
 - ⚡ Fun fact: ...Be happy
 
@@ -16,3 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 <text>Rh in bancruptcy,with reorganization,Pljt owner,Rh deptor
 $350.000.000.00 Dug Teretnicom prema Rh...
+<REPUBLIKA HRVATSKA I NJENE POD TVRTKE
+PRAVNO-FINANCIJSKI NE POSTOJE DO OKONČANJA PREUSTROJA I PREOBLIKOVANJA STEČAJNE MASE...
+
