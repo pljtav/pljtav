@@ -11,7 +11,7 @@ pljtav/pljtav is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 <html>Pljt web
-<head>left margin(16) write"Pljt ordering"
+<head>"Pljt ordering"
 
 
 
