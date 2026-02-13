@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...everything
 - 🌱 I’m currently learning ...coding
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...Pljt7492@gmail.com
+- 📫 How to reach me ...Pljt7492@gmail.com,BSP (Bsp883119@gmail.com)
+ https://share.google/u5Wwn2m0N6rRUTxdH
 - 😄 Pronouns: ...Whatever
 - ⚡ Fun fact: ...Be happy
 
